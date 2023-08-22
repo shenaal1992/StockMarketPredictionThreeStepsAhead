@@ -59,8 +59,8 @@ apple_scaler = scaler_apple()
 
 
 # Load the trained models
-google_model = load_model("C:/Users/Shenal Harshana/.spyder-py3/autosave/google_best.h5")
-apple_model  = load_model('C:/Users/Shenal Harshana/.spyder-py3/autosave/apple_best.h5')
+google_model = load_model("google_best.h5")
+apple_model  = load_model('apple_best.h5')
 
 
 
